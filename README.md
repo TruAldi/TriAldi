@@ -1,0 +1,2 @@
+# TriAldi
+UAS Kecerdasan Buatan
